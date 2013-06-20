@@ -1,7 +1,0 @@
-Notes
-=====
-
-* verbosity:
-  * 0 fängt stderr / stdout
-  * 1 fängt nur stdout
-  * 2 gibt alles weiter
